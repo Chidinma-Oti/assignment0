@@ -1,0 +1,1051 @@
+First Name          |Last Name           |  Age|Score
+--------------------+--------------------+-----+-----
+Aaron               |Grimm               |   30|   81
+Aaron               |Koressel            |   33|   81
+Aaron               |Russo               |   30|   81
+Abraham             |Howard              |   26|   77
+Ada                 |Parker              |   26|   67
+Ada                 |Walker              |   61|   70
+Adam                |Gates               |   19|   68
+Adam                |Wermus              |   26|   85
+Adam                |Woodbury            |   34|   86
+Addie               |Chandler            |   54|   75
+Addielyn            |Thurston            |   18|   78
+Adelaide            |Carter              |   20|   84
+Adelaide            |Clark               |   74|   77
+Adison              |Scott               |   53|   70
+Adrian              |Owens               |   35|   88
+Adrian              |Bell                |   62|   80
+Adrian              |Maruri              |   58|   70
+Aimei               |Kutt                |   65|   69
+AJ                  |Zmudosky            |   21|   72
+Alan                |Adams               |   47|   72
+Alan                |Browning            |   45|   72
+Alberta             |Barrett             |   55|   69
+Alex                |Marino              |   36|   73
+Alexandra           |Zalucky             |   36|   68
+Alexandro           |Campos              |   21|   67
+Alfonso             |Caparrini           |   22|   97
+Alicea              |Lin Engquist        |   52|   78
+Allen               |Fogle               |   66|   75
+Allison             |Bianchi             |   24|   70
+Allison             |Parker              |   30|   69
+Alma                |Fernandez           |   31|   69
+Aly                 |Fidiam-Smith        |   41|   76
+Alyssa              |Del Vigna           |   38|   78
+Alyssa              |Minko               |   51|   77
+Alyssa              |Murphy              |   42|   79
+Alyssa              |Park                |   48|   84
+Alyssa              |Promessi            |   30|   70
+Amanda              |Goodpaster          |   28|   88
+Amandeep            |Singh               |   32|   93
+Amit                |Ganapati Baadkar    |   51|   74
+Amy                 |Perry               |   18|   72
+Amy                 |Hershberger         |   45|   69
+Ana                 |Gabriela Lacaze     |   40|   77
+Andrea              |Goh                 |   53|   71
+Andrea              |Warren              |   27|   74
+Andrea              |Zomorodian          |   36|   74
+Andreas             |Procopiou           |   55|   77
+Andrew              |Ryan                |   20|   81
+Andrew              |Bain                |   65|   71
+Andrew              |Butts               |   41|   68
+Andrew              |Jimenez             |   43|   79
+Andrew              |Page                |   62|   73
+Andrew              |Perez               |   45|   71
+Andrew              |Pienaar             |   30|   76
+Andrew              |Stanton             |   20|   85
+Andy                |Dat Mai             |   18|   75
+Angela              |Marie Mistretta     |   29|   67
+Anna                |Cameron             |   36|   89
+Anthony             |A. Apodaca          |   26|   91
+Anthony             |Muscarella          |   25|   69
+Ariela              |Nurko Federov       |   24|   76
+Arik                |Ehle                |   22|   71
+Arlene              |Chan                |   33|   68
+Armando             |Gutierrez Gonzalez  |   70|   78
+Arnold              |Grant               |   51|   78
+Arnold              |Wells               |   63|   75
+Arthur              |Mason               |   19|   72
+Arturo              |Aguilar             |   29|   85
+Athena              |Xenakis             |   31|   80
+Aurica              |Hayes               |   66|   67
+Axel                |Geddes              |   33|   77
+Barney              |Jones               |   49|   76
+Bayani              |Inclano             |   74|   74
+BeiBei              |Monter              |   28|   67
+Belinda             |Walker              |   40|   74
+Ben                 |Jordan              |   70|   68
+Ben                 |Lash                |   23|   91
+Ben                 |Rush                |   30|   78
+Benjamin            |Plessala            |   45|   82
+Benjamin            |Valic               |   71|   68
+Beril               |Pisgin-Saglam       |   61|   69
+Bess                |Daubenmire          |   52|   82
+Beth                |David               |   40|   68
+Beth                |Sullivan            |   52|   73
+Bethany             |Jane Hanson         |   41|   86
+Beyoncé             |Knowles             |   67|   78
+Billie              |Eilish              |   34|   78
+Bing                |Chen                |   55|   71
+Blake               |Henderson           |   42|   82
+Bob                 |Pauley              |   63|   67
+Bob                 |Whitehill           |   66|   72
+Brad                |Robinson            |   33|   73
+Brad                |Winemiller          |   35|   87
+Breck               |Alverson            |   20|   68
+Bree                |Jenkins             |   55|   67
+Brenda              |Lin Zhang           |   52|   74
+Brendan             |Beesley             |   73|   70
+Breonna             |Carter              |   56|   70
+Brian               |Kilgore             |   74|   73
+Britta              |Wilson              |   66|   74
+Bruce               |Craig               |   62|   87
+Bruna               |Moniz Berford       |   49|   69
+Byron               |Bashforth           |   18|   82
+Caleb               |Jeon                |   20|   76
+Candace             |Magaña              |   32|   85
+Capri               |Oliver              |   27|   77
+Carl                |Cole                |   47|   73
+Carliona            |Dau-Kaufman         |   57|   71
+Carlos              |Felipe León         |   35|   83
+Carly               |Riley               |   42|   79
+Carol               |Moen Wing           |   68|   71
+Carolina            |Gaskin              |   62|   69
+Carolyn             |Mazanec             |   28|   87
+Carrie              |Hobson              |   43|   77
+Cassandra           |Garcia              |   22|   91
+Catherine           |Bennett             |   23|   71
+Catherine           |Racette             |   36|   76
+Cedric              |L. Williams         |   34|   90
+Chad                |Williams            |   53|   73
+Charles             |Sochin              |   24|   67
+Charlie             |Bisharat            |   19|   74
+Charlie             |Kilpatrick          |   23|   90
+Charlie             |Tyler               |   72|   77
+Chelsea             |Murray              |   22|   77
+Chelsea             |Wright              |   33|   71
+Cherise             |Miller              |   24|   78
+Cherry              |Miller              |   28|   77
+Cheryl              |Ichikawa Wang       |   62|   67
+Cheryl              |Nardi               |   42|   74
+Chester             |Nelson              |   62|   76
+Chester             |Richardson          |   34|   83
+Chia-an             |Anne Fu             |   69|   69
+Chris               |Fogel               |   26|   89
+Chris               |Lasell              |   51|   72
+Chris               |Sasaki              |   30|   87
+Chris               |Schoeneman          |   31|   90
+Chris               |Stevenson           |   57|   70
+Chrissa             |Urquiola            |   51|   70
+Christian           |J. Simon            |   28|   71
+Christina           |Garcia Weiland      |   66|   67
+Christina           |Gin                 |   61|   70
+Christine           |Jones               |   25|   87
+Christopher         |Hamilton            |   63|   67
+Christopher         |Meeker              |   33|   74
+Christopher         |R. Carter           |   22|   81
+Chuck               |Waite               |   30|   69
+Chuimei             |Ho                  |   22|   85
+Claire              |Faggioli            |   69|   71
+Claudia             |Chang Sanii         |   36|   93
+Clayborn            |Welch               |   37|   81
+Cody                |Harrington          |   39|   67
+Cody                |Lyon                |   64|   69
+Colby               |Donaldson           |   23|   85
+Colin               |Bohrer              |   41|   79
+Collin              |Allen               |   72|   70
+Cory                |Omand               |   33|   90
+Courtney            |Dingel              |   42|   82
+Coya                |Elliott             |   67|   72
+Craig               |Foster              |   37|   74
+Craig               |Marshall            |   36|   80
+Dainton             |Farrell             |   70|   77
+Dainton             |Hall                |   42|   74
+Dainton             |Scott               |   75|   76
+Dale                |Martin              |   30|   73
+Dan                 |Fornero             |   28|   77
+Dana                |Donaldson           |   71|   67
+Dana                |Frankoff            |   31|   90
+Daniel              |Chong               |   44|   81
+Daniel              |Garcia              |   63|   69
+Danielle            |Feinberg            |   38|   91
+Darcy               |Parker              |   45|   68
+Darcy               |Ryan                |   36|   76
+Darrell             |Valor               |   40|   67
+Dave                |Hale                |   49|   77
+Dave                |Weckl               |   33|   77
+David               |Baraff              |   23|   75
+David               |Batte               |   29|   67
+David               |Boucher             |   20|   69
+David               |Hayter              |   26|   67
+David               |Lally               |   36|   77
+David               |Lei                 |   18|   78
+David               |M. Laur             |   47|   78
+David               |Nahman-Ramos        |   18|   67
+David               |Rejano Cantero      |   39|   80
+David               |S. Peng             |   18|   67
+David               |Suther              |   60|   72
+David               |Wehr                |   26|   70
+Deana               |Walker              |   22|   93
+Deanie              |Hickox              |   40|   71
+Deborah             |Coleman             |   26|   92
+Delilah             |Smith               |   18|   83
+Derek               |Davis               |   38|   77
+Derek               |Williams            |   73|   73
+Diana               |Guardado            |   18|   75
+Don                 |Crum                |   22|   79
+Donald              |Fong                |   60|   74
+Donald              |Foster              |   65|   74
+Donald              |Schmidt             |   25|   96
+Donna               |Quattropani         |   19|   82
+Doug                |Tornquist           |   66|   67
+Dovi                |Anderson            |   25|   71
+Dr.                 |Alison Marshall     |   20|   92
+Duc                 |Manh Nguyen         |   30|   78
+Dylan               |Hart                |   46|   73
+Dylan               |Sisson              |   18|   73
+Eddy                |Mitchell            |   55|   71
+Edgar               |Robinson            |   47|   75
+Edgar               |A. Ochoa            |   30|   74
+Edward              |Payne               |   33|   81
+Edward              |Luong               |   72|   72
+Elena               |Pinderhughes        |   53|   68
+Elian               |Scott               |   44|   78
+Elissa              |Knight              |   58|   82
+Ellalorraine        |Greely              |   33|   79
+Elliot              |Simons              |   72|   78
+Elliott             |Cattell             |   31|   71
+Elyse               |Willis              |   35|   73
+Emily               |Murphy              |   18|   73
+Emily               |Davis               |   64|   81
+Emily               |Sakamoto-Steidl     |   30|   79
+Emily               |Weihrich            |   63|   72
+Emma                |Harper              |   27|   74
+Eric                |Anderson            |   31|   67
+Eric                |Andraos             |   54|   69
+Eric                |Bermender           |   56|   68
+Eric                |Byers               |   35|   73
+Eric                |Pearson             |   51|   79
+Eric                |Peden               |   53|   72
+Eric                |Shepard             |   30|   73
+Erica               |Milsom              |   57|   75
+Erica               |Simons              |   26|   77
+Erik                |Anderson            |   68|   80
+Erin                |Fitzgerald          |   29|   92
+Erin                |O'Neal              |   20|   89
+Ethan               |Dean                |   23|   70
+Ethan               |Loh                 |   22|   78
+Eva                 |Porter              |   43|   69
+Evelyn              |Carroll             |   22|   85
+F.                  |Sebastian Grassia   |   66|   71
+Félix               |O. Santiago         |   59|   68
+Fernando            |de Goes             |   33|   71
+Fiona               |Ferguson            |   64|   75
+Florian             |Hecht               |   27|   69
+Florrie             |Edwards             |   50|   79
+Francesco           |Matteo Olcese       |   45|   73
+Frank               |Yung-Lian Tai       |   23|   76
+Frederick           |Evans               |   43|   83
+Gabriela            |Fischer             |   26|   81
+Gairo               |Cuevas              |   32|   90
+Galyn               |Susman              |   56|   82
+Gary                |Bruins              |   55|   69
+Geoffrey            |Jarrett             |   59|   76
+Geoffrey            |Osika               |   66|   75
+Gerardo             |Osorio              |   51|   73
+Gerisa              |Macale              |   27|   77
+Glenn               |Kasprzycki          |   63|   76
+Gordon              |Cameron             |   22|   78
+Grace               |Adams               |   35|   86
+Graham              |Finley              |   40|   71
+Graham              |Gibson              |   18|   86
+Greg                |Dykstra             |   74|   79
+Greg                |Gladstone           |   35|   87
+Greg                |Snyder              |   71|   77
+Gregory             |Finch               |   31|   77
+Gregory             |Fletcher            |   51|   70
+Guilherme           |Sauerbronn Jacinto  |   24|   76
+Guyu                |Liang               |   67|   72
+Hailey              |Cooper              |   38|   85
+Hank                |Angeli              |   22|   74
+Hannah              |Chu                 |   63|   71
+Heather             |Eisner              |   20|   79
+Heidi               |Stettner            |   31|   85
+Helen               |Hawaz               |   23|   67
+Henry               |Chau                |   69|   69
+Hiroaki             |Narita              |   18|   81
+Hongyan             |Yang                |   36|   71
+Hosuk               |Chang               |   56|   69
+Hsiao               |Liu                 |   18|   89
+Hsiao-Hsien         |Aaron Lo            |   51|   79
+Ian                 |Hsieh               |   41|   73
+Ian                 |James Corlett       |   29|   92
+Ian                 |Westcott            |   30|   80
+Iara                |Nemirovsky          |   54|   71
+Ivan                |Piesh               |   50|   72
+Jack                |Spencer             |   67|   68
+Jack                |Fisher              |   19|   88
+Jack                |Hattori             |   29|   90
+Jack                |Zhao                |   36|   76
+Jacob               |Cole                |   44|   71
+Jacob               |Richards            |   38|   86
+Jacqueline          |Brand               |   45|   78
+Jaiden              |Alexander McLeod    |   72|   68
+Jaime               |Roe                 |   27|   92
+Jalise              |Beamon              |   23|   68
+James               |Anderson            |   56|   67
+James               |Andereggen          |   24|   93
+James               |Burgess             |   68|   69
+James               |Hong                |   23|   77
+James               |L. Jackson          |   63|   71
+James               |Spencer             |   34|   92
+James               |W. Brown            |   31|   86
+Jamie               |Ryan                |   23|   80
+Jamie               |Woolf               |   60|   74
+Jaraed              |Bello               |   70|   79
+Jared               |Counts              |   28|   68
+Jared               |Fong                |   22|   73
+Jason               |Kim                 |   27|   94
+Jason               |Maybaum             |   20|   75
+Jay-Vincent         |Jones               |   52|   79
+Jeanette            |Elizabeth Mckillop  |   51|   79
+Jeeyeon             |Park                |   27|   77
+Jenna               |Spurlock            |   31|   86
+Jenni               |Olson               |   36|   70
+Jennifer            |Cullinan            |   61|   71
+Jennifer            |Johnston            |   33|   85
+Jennifer            |Zaccaro             |   33|   80
+Jenny               |Moussa Spring       |   41|   71
+Jeremie             |Talbot              |   53|   86
+Jeremy              |Lazare              |   34|   82
+Jeremy              |Paton               |   63|   74
+Jeremy              |Slome               |   72|   73
+Jesse               |Hollander           |   44|   75
+Jessica             |Heidt               |   63|   73
+Jessica             |Kelly               |   72|   77
+Jessica             |Psy DeLacy          |   25|   82
+Jessica             |Wan                 |   21|   81
+Jie                 |Ma                  |   55|   71
+Jim                 |Kennedy             |   29|   78
+Jim                 |Martin              |   63|   70
+Jim                 |Morris              |   25|   80
+Joachim             |De Deken            |   23|   83
+Joanna              |Laurent             |   43|   83
+Jody                |Weinberg            |   38|   70
+John                |Chun Chiu Lee       |   50|   67
+John                |Henry Frankenhauser |   42|   70
+John                |Loy                 |   34|   67
+John                |Trauscht            |   59|   81
+Jon                 |Bryant              |   30|   69
+Jon                 |Null                |   67|   70
+Jonah               |Blue Laird          |   19|   80
+Jonathan            |Garson              |   59|   82
+Jonathan            |Hoffman             |   58|   70
+Jonathan            |Mateo Rodriguez     |   28|   93
+Jonathan            |Pages               |   69|   70
+Jonathan            |Vargo               |   68|   80
+Joni                |Superticioso        |   41|   69
+Jordan              |Fisher              |   67|   73
+Jordan              |Rempel              |   40|   69
+Jordi               |Oñate Isal          |   18|   88
+Josh                |Grant               |   58|   77
+Josh                |Levi                |   61|   70
+Joshua              |Dai                 |   75|   69
+Joshua              |Jenny               |   45|   70
+Joyce               |Lacey               |   65|   68
+Judith              |Angulo              |   49|   75
+Juei                |Chang               |   27|   71
+Julia               |Adams               |   41|   74
+Julia               |Cho                 |   38|   80
+Julia               |Newhide             |   66|   78
+Julian              |Murphy              |   23|   67
+Julian              |Taylor              |   31|   73
+Julie               |Cho                 |   42|   82
+Julien              |Schreyer            |   62|   81
+Juliet              |Roth                |   21|   90
+Julio               |Quintero            |   67|   71
+Justin              |Harris              |   21|   90
+Karen               |Han                 |   23|   70
+Karen               |Huie                |   19|   88
+Kate                |Cooper              |   40|   74
+Kate                |Hansen-Birnbaum     |   58|   85
+Katrin              |Bratland            |   40|   85
+Kayla               |D. Harriel          |   37|   90
+Kelci               |Hahn                |   20|   77
+Kelly               |Juarez              |   21|   77
+Kelsey              |Monken              |   66|   76
+Kelvin              |Harper              |   22|   69
+Kevin               |Douglas             |   37|   84
+Kevin               |Andrus              |   20|   78
+Kevin               |Buschiazzo          |   43|   79
+Kevin               |Reher               |   43|   76
+Kevin               |Rose-Williams       |   56|   76
+Kheron              |Jones-Kassing       |   48|   72
+Kiki                |Mei Kee Poh         |   57|   87
+Kim                 |Diaz                |   38|   72
+Kimberly            |Patrick             |   31|   87
+Kirsten             |Ryan                |   71|   71
+Kirsten             |Yamaguchi           |   45|   77
+Kori                |Rae                 |   51|   83
+Krissy              |Bailey              |   29|   80
+Kristi              |Gamble              |   55|   69
+Kristifir           |Klein               |   18|   91
+Kristine            |Alvarez Javier      |   35|   74
+Kristoffer          |Neil Landes         |   39|   79
+Kristophe           |Vergne              |   20|   74
+Kureha              |Yokoo               |   31|   76
+Kurt                |Fleischer           |   53|   84
+Kyle                |Lovrien             |   19|   77
+Kyle                |Roldan              |   47|   73
+Kylie               |Wijsmuller          |   25|   68
+Lan                 |Tang                |   41|   81
+Larry               |Mah                 |   30|   74
+Lars                |R. Damerow          |   22|   73
+Laura               |Finell              |   51|   78
+Laura               |Hainke              |   64|   76
+Laura               |Meyer               |   67|   67
+Laura               |Phillips            |   26|   82
+Laura               |Smith Roethe        |   25|   73
+Lauren              |Harrold             |   74|   68
+Lauren              |Rodriguez-Gaylord   |   54|   76
+Lauren              |Uyeda               |   31|   68
+Laurie              |Nguyen Kim          |   19|   69
+Lee                 |Unkrich             |   55|   75
+Leif                |Pedersen            |   68|   75
+Lenny               |Walker              |   51|   70
+Leonardo            |Evans               |   34|   82
+Leslie              |Pao                 |   27|   76
+Lika                |Miyake              |   43|   68
+Lily                |Kelley              |   29|   92
+Lily                |Sanfelippo          |   23|   94
+Lindsey             |Collins             |   51|   80
+Ling                |Hsu                 |   63|   77
+Ling                |Tu                  |   33|   69
+Lisa                |Chino               |   36|   75
+Lisa                |Fotheringham        |   66|   77
+Liz                 |Gazzano             |   19|   95
+Logan               |Hester              |   31|   82
+Logan               |Pearsall            |   46|   85
+Lois                |Banks               |   48|   78
+Louise              |Smythe              |   23|   82
+Lucas               |Alexander           |   67|   68
+Lucas               |Glashoff            |   27|   75
+Lucy                |Reed                |   50|   67
+Lucy                |Laliberte           |   64|   70
+Luke                |Morris              |   28|   72
+Luke                |Cutler Elwood       |   46|   71
+Luke                |Maurer              |   43|   78
+Lynda               |Pakzad              |   63|   71
+Lyon                |Liew                |   65|   71
+Maddie              |Ellis               |   34|   96
+Madeline            |Ormbrek             |   63|   70
+Madeline            |Sharafian           |   29|   70
+Manuel              |Zenon Rodriguez     |   51|   79
+Marcia              |Dickstein           |   43|   70
+Marco               |Antonio Marquez     |   48|   72
+Marco               |Castellanos         |   32|   77
+Marcos              |Navarrete           |   26|   68
+Maria               |Morgan              |   45|   71
+Mariah              |Thompson            |   27|   76
+Mariana             |Denight             |   19|   83
+Mariel              |Sheets              |   38|   70
+Mariko              |Hoshi               |   18|   96
+Marina              |Capizzi             |   65|   70
+Mark                |Dinicola            |   73|   71
+Mark                |Fernandez           |   46|   72
+Mark                |Joseph              |   72|   78
+Mark                |Milla               |   24|   67
+Mark                |Pananganan          |   53|   72
+Mark                |Piretti             |   22|   83
+Mark                |Robertson           |   38|   68
+Mark                |VandeWettering      |   23|   72
+Markus              |Kranzler            |   71|   70
+Marlena             |Fecho               |   32|   88
+Marylou             |Jaso                |   34|   91
+Matthew             |Muhili Lindahl      |   31|   85
+Matthias            |Goerner             |   20|   98
+Maura               |Turner              |   61|   73
+Max                 |Lloyd               |   63|   71
+Max                 |Morrison            |   42|   85
+Max                 |Brace               |   41|   69
+Max                 |Rodriguez           |   36|   90
+May                 |Pon                 |   65|   81
+Maya                |Magub               |   49|   75
+Maya                |Tanaka              |   24|   70
+Megan               |Alderson            |   51|   79
+Melissa             |Bernabei Morrison   |   51|   72
+Melissa             |Woods               |   22|   68
+Meredith            |Crawford            |   30|   74
+Meredith            |Moulton             |   18|   89
+Michael             |Cabral              |   22|   85
+Michael             |Douglass, Jr.       |   72|   80
+Michael             |Fong                |   41|   83
+Michael             |Galbraith           |   57|   75
+Michael             |Lorenzen            |   35|   91
+Michael             |Sauls               |   36|   79
+Michael             |Stocker             |   44|   84
+Michael             |Wu                  |   68|   77
+Michael             |Yates               |   39|   85
+Michelle            |Lopez               |   33|   98
+Michelle            |Simons              |   25|   69
+Mike                |H. Mahony           |   57|   68
+Mike                |Jones               |   54|   71
+Mike                |Stern               |   36|   84
+Mike                |Valerio             |   34|   69
+Miranda             |Carroll             |   28|   86
+Miranda             |Douglas             |   67|   78
+Mitch               |Kopelman            |   58|   69
+Molly               |Glover              |   37|   88
+Molly               |Jones               |   28|   69
+Momo                |LeBeau              |   75|   78
+Monica              |Sonand              |   37|   81
+Morgan              |Karadi              |   22|   81
+Morgan              |Miars               |   44|   72
+Myra                |Gibson              |   35|   82
+Nancy               |Anaisodin Dinh      |   57|   72
+Natalie             |Cunningham          |   18|   80
+Natalie             |Leggett             |   68|   79
+Nathaniel           |Smith               |   28|   85
+Neil                |Helm                |   31|   81
+Nelson              |Bohol               |   67|   67
+Néstor              |Benito Fernandez    |   19|   68
+Nicholas            |C. Smith            |   33|   83
+Nicholas            |Docter              |   55|   78
+Nick                |Balian              |   67|   73
+Nicole              |Lloyd               |   41|   68
+Nicole              |Mitchell            |   60|   70
+Nicole              |Paradis Grindle     |   71|   73
+Oliver              |Walker              |   37|   85
+Otito               |Greg-Obi            |   63|   73
+Patrick             |Campbell            |   70|   76
+Patrick             |James               |   24|   78
+Patty               |Kihm                |   67|   70
+Paul                |Chideya             |   20|   83
+Paul                |Francisco Diaz      |   34|   83
+Pedro               |Eustache            |   61|   81
+Per                 |Christensen         |   32|   77
+Peter               |Nye                 |   35|   71
+Peter               |Plackowski          |   50|   76
+Peter               |Roe                 |   41|   72
+Peter               |Rotter              |   21|   71
+Peter               |Sohn                |   69|   69
+Peter               |Ward                |   20|   81
+Philip              |Graham              |   30|   70
+Philip              |Metschan            |   75|   80
+Phillip             |Levy                |   37|   77
+Phyllis             |Ting                |   70|   76
+Rachel              |Agana               |   53|   70
+Rachel              |H. Slansky          |   70|   72
+Raja                |Bala                |   63|   82
+Rami                |Kasim               |   48|   75
+Raquel              |Bordin              |   19|   89
+Raymond             |V. Wong             |   18|   69
+Rebecca             |Warren              |   42|   74
+Reema               |Batnagar            |   66|   73
+Reid                |Casey               |   34|   68
+Ren                 |Klyce               |   75|   70
+Renee               |Tam                 |   33|   73
+Ricardo             |Nadu                |   64|   79
+Richard             |Guo                 |   69|   73
+Richard             |Yoshioka            |   55|   79
+Rob                 |Cassie              |   29|   89
+Rob                 |Fusari              |   24|   69
+Robb                |Gibbs               |   32|   69
+Robert              |Brophy              |   45|   70
+Robert              |Graf                |   61|   75
+Robert              |Hamrick             |   28|   86
+Robert              |Kosai               |   20|   76
+Roberto             |Cani                |   44|   75
+Robin               |Leigh               |   21|   80
+Robyn               |Rindge              |   52|   79
+Roland              |Robinson            |   21|   68
+Rona                |Francisco Li        |   40|   89
+Rosalie             |Chiang              |   33|   82
+Rosana              |Kot                 |   52|   75
+Rose                |Corrigan            |   48|   70
+Royce               |Wesley              |   56|   74
+Ryan                |Adams               |   27|   90
+Ryan                |Bujnowicz           |   31|   82
+Ryan                |Darkes              |   41|   79
+Sandra              |Karpman             |   64|   76
+Sandra              |Oh                  |   60|   72
+Sara                |Hanlan              |   55|   74
+Sara                |Mann                |   26|   72
+Sarah               |Tucker              |   73|   68
+Sarah               |Boggs               |   64|   79
+Sarah               |Hutchinson          |   38|   79
+Sarah               |Jo Helton           |   55|   69
+Sarah               |Thornblade          |   53|   76
+Saunder             |Choi                |   36|   68
+Scott               |Curtis              |   18|   79
+Scott               |Tilley              |   24|   68
+Sean                |T. Krishnan         |   37|   74
+Selen               |Atiker              |   70|   71
+Serena              |Dettman             |   36|   96
+Seth                |Van Booven          |   64|   82
+Shari               |Villarde            |   28|   78
+Sharmila            |Guha Lash           |   63|   70
+Sharon              |Dovas               |   40|   68
+Shawn               |Mann                |   29|   91
+Shawn               |Zhou                |   54|   68
+Shiho               |Tilley              |   56|   80
+Shubha              |Jagannatha          |   64|   77
+Sienna              |Spencer             |   36|   75
+Sophia              |Bailey              |   50|   79
+Sophia              |Mitchell            |   61|   68
+Sophia              |Borich              |   33|   91
+Spike               |Fowler              |   39|   81
+Stefan              |Gronsky             |   44|   77
+Stephanie           |Gee Galaviz         |   33|   67
+Stephanie           |Kelly               |   34|   87
+Stephen             |Friedman            |   53|   67
+Stephen             |Urata               |   32|   92
+Steve               |Bissinger           |   75|   68
+Steve               |Bloom               |   20|   87
+Steven              |Clay Hunter         |   46|   69
+Steven              |Holtman             |   64|   73
+Stuart              |Clark               |   22|   71
+Sungyeon            |Joh                 |   47|   71
+Sunya               |Boonyatera          |   35|   92
+Sureena             |Mann                |   43|   85
+Susan               |Brunig              |   51|   76
+Susan               |Fisher Fong         |   52|   71
+Susan               |Salituro            |   27|   85
+Susanne             |Rublein             |   33|   77
+Suzanne             |Waters              |   34|   83
+Sydney              |Crawford            |   53|   70
+Sydney              |Thomas              |   28|   75
+Sylvia              |Gray Wong           |   66|   78
+Tadahiro            |Uesugi              |   58|   79
+Teag                |Reaves              |   18|   83
+Ted                 |Jones               |   60|   80
+Ted                 |Atkatz              |   30|   77
+Teresa              |Nord Storhoff       |   40|   70
+Terri               |Douglas             |   19|   83
+Terry               |Lee Moseley         |   43|   83
+Tess                |Cameron             |   32|   83
+Thomas              |Gonzales            |   28|   73
+Thomas              |Hahn                |   36|   90
+Thomas              |Hardisty            |   55|   70
+Thomas              |Harte               |   48|   68
+Tiana               |Craig               |   42|   73
+Tiana               |Ellis               |   22|   90
+Tiffany             |Reno Fung           |   62|   68
+Tim                 |Speltz              |   41|   83
+Toan-Vinh           |Le                  |   34|   78
+Tom                 |Gately              |   37|   85
+Tom                 |Nettleship          |   36|   93
+Tony                |Rosenast            |   25|   83
+Topher              |Ngo                 |   64|   68
+Tracey              |Walker              |   36|   82
+Trevor              |Jimenez             |   31|   82
+Trey                |Henry               |   55|   68
+Tricia              |Andres              |   23|   80
+Trina               |M. Roy              |   65|   83
+Trinity             |Jo-Li Bliss         |   33|   83
+Tristan             |Allerick Chen       |   20|   79
+Tsang               |Pui-Yee             |   42|   86
+Tyler               |Fazakerley          |   44|   70
+Tyler               |Schroeder           |   71|   68
+Uma                 |Havaligi            |   18|   81
+Valerie             |Hathaway            |   32|   85
+Vanessa             |Russell             |   22|   90
+Venkateswaran       |Krishna             |   40|   71
+Verónica            |Toledo              |   49|   84
+Victoria            |Manley Thompson     |   23|   67
+Vince               |Caro                |   32|   71
+Vincent             |Sulit               |   59|   68
+Violet              |Armstrong           |   18|   81
+Vladimir            |Kooperman           |   31|   77
+Wai                 |Ching Ho            |   60|   73
+Warren              |Latimer             |   36|   85
+Wayne               |Bergeron            |   58|   80
+Wen-Chin            |Hsu                 |   37|   78
+Wendell             |Lee                 |   55|   77
+Wendy               |Dale Tanzillo       |   47|   67
+Wendy               |Heffner             |   68|   67
+Wesley              |Fuh                 |   27|   68
+William             |Owens               |   22|   87
+William             |Starling            |   34|   86
+Witawat             |Bik Rungjiratananon |   36|   68
+Wynton              |Grant               |   70|   78
+Xavier              |Riffault            |   56|   72
+Ye                  |Won Cho             |   44|   75
+Yenny               |Reyes               |   66|   70
+Yon                 |Hui Lee             |   58|   67
+Yu                  |Nira Liu            |   18|   75
+Yuko                |Okumura             |   35|   67
+Yun                 |Lien                |   71|   68
+Yung-Han            |Chang               |   26|   90
+Zaruhi              |Galstyan            |   67|   78
+Aarif               |Sheikh              |   72|   78
+Agnese              |Bonfantini          |   22|   71
+Agness              |Musase              |   35|   82
+Áine                |O'Gorman            |   74|   77
+Aitana              |Bonmatí             |   49|   80
+Akshaye             |Widhani             |   64|   73
+Alana               |Cook                |   35|   83
+Alba                |Redondo             |   24|   76
+Alessia             |Russo               |   45|   73
+Alex                |Morgan              |   44|   71
+Alexandra           |Popp                |   24|   81
+Alexia              |Putellas            |   67|   74
+Ali                 |Riley               |   21|   81
+Alisha              |Lehmann             |   28|   83
+Allyson             |Swaby               |   39|   76
+Alyssa              |Thompson            |   20|   69
+Amanda              |Ilestedt            |   44|   79
+Amel                |Majri               |   52|   69
+Ana                 |Borges              |   31|   84
+Ana                 |Capeta              |   38|   69
+Ana                 |Maria Crnogorčević  |   25|   76
+Ana                 |Rute                |   25|   80
+Ana                 |Seiça               |   33|   72
+Ana                 |Vitória             |   56|   71
+Andreia             |Norton              |   72|   69
+Andressa            |Alves               |   21|   73
+Angela              |Baron               |   55|   80
+Angela              |Beard               |   61|   68
+Anicka              |Castañeda           |   36|   73
+Anja                |Sonstevold          |   41|   87
+Anna                |Josendal            |   58|   67
+Anna                |Leat                |   30|   70
+Annalie             |Longo               |   35|   86
+Annamaria           |Serturini           |   32|   85
+Aoba                |Fujino              |   51|   70
+Arianna             |Caruso              |   42|   78
+Ary                 |Borges              |   62|   67
+Ashley              |Lawrence            |   47|   72
+Ashley              |Sanchez             |   52|   76
+Assia               |Zouhair             |   42|   69
+Aubrey              |Kingsbury           |   73|   75
+Avell               |Chitundu            |   69|   77
+Bambanani           |Mbane               |   63|   79
+Barbara             |Bonansea            |   52|   77
+Benedetta           |Glionna             |   29|   68
+Bethany             |England             |   46|   76
+Betina              |Petit-Frere         |   69|   75
+Betsy               |Hassett             |   70|   84
+Bia                 |Zaneratto           |   62|   70
+Bosco               |Martis              |   23|   78
+C.J.                |Bott                |   68|   76
+Caesar              |Gonsalves           |   36|   70
+Camila              |Gómez Ares          |   33|   83
+Carmen              |Montenegro          |   69|   71
+Carolina            |Arias               |   42|   69
+Casey               |Murphy              |   73|   70
+Casey               |O'Neill             |   48|   67
+Casey               |Phair               |   36|   80
+Cata                |Coll                |   43|   76
+Catalina            |Estrada             |   21|   72
+Catalina            |Pérez               |   34|   76
+Catalina            |Usme                |   51|   67
+Catherine           |Musonda             |   25|   82
+Cecilia             |Salvai              |   34|   89
+Chantelle           |Swaby               |   46|   83
+Chengshu            |Wu                  |   74|   83
+Chiamaka            |Nnadozie            |   73|   74
+Chika               |Hirao               |   19|   68
+Chloe               |Kelly               |   65|   69
+Cho                 |So-hyun             |   33|   84
+Choo                |Hyo-joo             |   37|   86
+Christine           |Sinclair            |   27|   71
+Ciara               |Grant               |   30|   74
+Clara               |Matéo               |   24|   78
+Clare               |Hunt                |   58|   76
+Claudia             |Zornoza             |   66|   79
+Cloe                |Lacasse             |   41|   71
+Constance           |Picaud              |   22|   67
+Cortnee             |Vine                |   19|   93
+Craig               |Macrae              |   42|   74
+Crystal             |Dunn                |   61|   77
+Dalila              |Ippólito            |   48|   71
+Daniela             |Arias               |   59|   68
+Daniela             |Caracas             |   74|   78
+Daniela             |Solera              |   32|   83
+Danielle            |Etienne             |   40|   77
+Danielle            |van de Donck        |   21|   81
+Dao                 |Thi Kieu Oanh       |   40|   75
+Daphne              |van Domselaar       |   68|   67
+Dayana              |Pierre-Louis        |   45|   81
+Deysire             |Salazar             |   44|   69
+Diana               |Ospina              |   59|   73
+Diana               |Silva               |   66|   70
+Dolores             |Silva               |   46|   74
+Duda                |Sampaio             |   28|   73
+Elena               |Linari              |   37|   74
+Eliana              |Stábile             |   36|   85
+Elin                |Rubensson           |   45|   70
+Élisa               |De Almeida          |   64|   78
+Ella                |Toone               |   31|   73
+Ellie               |Roebuck             |   28|   69
+Elodie              |Nakkach             |   74|   73
+Emilie              |Haavi               |   56|   72
+Emily               |Sonnett             |   51|   71
+Emma                |Snerle              |   74|   73
+Érica               |Lonigro             |   22|   69
+Erika               |Hernandez           |   40|   83
+Erin                |Nayler              |   45|   68
+Esme                |Morgan              |   39|   87
+Estefanía           |Banini              |   21|   78
+Esther              |Banda               |   18|   69
+Esther              |Okoronkwo           |   18|   85
+Evelyne             |Viens               |   32|   84
+Farissa             |Cordoba             |   36|   71
+Fatima              |Tagnaout            |   35|   80
+Fikile              |Magama              |   49|   69
+Filippa             |Angeldahl           |   28|   68
+Florencia           |Bonsegundo          |   68|   67
+Francesca           |Durante             |   57|   74
+Frederikke          |Thøgersen           |   51|   81
+Frida               |Maanum              |   62|   79
+Fuka                |Nagano              |   33|   71
+Gabi                |Rennie              |   19|   84
+Gabriela            |Salgado             |   18|   82
+Gabriela            |Urueña              |   35|   76
+Génesis             |Pérez               |   48|   71
+Grace               |Geyoro              |   45|   87
+Guro                |Bergsvand           |   24|   83
+Hali                |Long                |   20|   68
+Hana                |Takahashi           |   20|   82
+Hanane              |Ait El Haj          |   29|   88
+Hanna               |Bennison            |   49|   69
+Hannah              |Hampton             |   52|   72
+Hannah              |Wilkinson           |   40|   75
+Havana              |Solaun              |   18|   85
+Hikaru              |Naomoto             |   48|   86
+Hilary              |Jaen                |   46|   69
+Hina                |Sugita              |   22|   74
+Hinata              |Miyazawa            |   46|   67
+Hong                |Hye-ji              |   21|   80
+Honoka              |Hayashi             |   75|   74
+Huynh               |Nhu                 |   68|   67
+Ifeoma              |Onumonu             |   55|   68
+Ines                |Arouaissa           |   39|   88
+Inês                |Pereira             |   44|   75
+Ingrid              |Syrstad             |   49|   77
+Isibeal             |Atkinson            |   36|   87
+Ivonne              |Chacón              |   41|   83
+Jacintha            |Weimar              |   56|   68
+Janni               |Thomsen             |   69|   78
+Jennifer            |Falk                |   22|   83
+Jennyfer            |Limage              |   61|   67
+Jessika             |Cowart              |   22|   94
+Joana               |Marchão             |   21|   83
+Jordyn              |Huitema             |   41|   68
+Judith              |Soko                |   71|   74
+Julia               |Stierli             |   46|   78
+Julieta             |Cruz                |   46|   77
+Jun                 |Endo                |   25|   72
+Kadeisha            |Buchanan            |   19|   79
+Kadidiatou          |Diani               |   56|   74
+Kailen              |Sheridan            |   45|   68
+Kameron             |Simmonds            |   72|   79
+Karina              |Sævik               |   37|   83
+Kathrin             |Hendrich            |   32|   73
+Kathrine            |Larsen              |   30|   68
+Katie               |McCabe              |   19|   87
+Katie               |Zelem               |   74|   70
+Katja               |Snoejis             |   52|   73
+Katrina             |Guillou             |   52|   68
+Kayla               |McKenna             |   53|   74
+Kebotseng           |Moletsane           |   70|   73
+Kenza               |Chapelle            |   36|   89
+Kerly               |Theus               |   69|   77
+Khadija             |ER-RMICHI           |   21|   78
+Khadija             |Shaw                |   31|   70
+Kholosa             |Biyana              |   20|   88
+Khong               |Thi                 |   25|   91
+Kika                |Nazareth            |   33|   75
+Kiko                |Seike               |   73|   77
+Kim                 |Hye-ri              |   56|   69
+Kim                 |Yun-ji              |   71|   73
+Klara               |Buehl               |   54|   74
+Konya               |Plummer             |   31|   90
+Kristie             |Mewis               |   18|   76
+Laia                |Codina              |   24|   87
+Lara                |Esponda             |   37|   76
+Lara                |Marti               |   65|   76
+Laura               |Coombs              |   35|   79
+Laura               |Giuliani            |   22|   83
+Lauren              |Hemp                |   31|   94
+Laurina             |Fazer               |   74|   81
+Lea                 |Le Garrec           |   32|   85
+Lee                 |Young-ju            |   22|   77
+Lena                |Sophie              |   54|   76
+Lene                |Sophie Oberdorf     |   49|   79
+Leticia             |Izidoro             |   53|   69
+Leticia             |Lungu               |   59|   74
+Lia                 |Wälti               |   18|   82
+Lim                 |Seon-joo            |   60|   71
+Lina                |Hurtig              |   30|   87
+Linda               |Caicedo             |   51|   78
+Lineth              |Beerenstein         |   56|   79
+Lineth              |Cedeno              |   31|   90
+Lingwei             |Yao                 |   48|   77
+Linlin              |Wang                |   34|   84
+Linyan              |Zhang               |   40|   77
+Lisa                |Boattin             |   27|   96
+Livia               |Peng                |   64|   78
+Liz                 |Anton               |   48|   77
+Lorena              |Bedoya              |   29|   82
+Lorena              |Benítez             |   39|   76
+Lotte               |Wubben-Moy          |   43|   88
+Louise              |Quinn               |   48|   76
+Luana               |Bühler              |   39|   90
+Lúcia               |Alves               |   49|   68
+Lucy                |Di Guglielmo        |   25|   71
+Lynn                |Wilms               |   21|   94
+Madelen             |Janogy              |   39|   68
+Maëlle              |Lakrar              |   49|   67
+Magdalena           |Eriksson            |   55|   72
+Maika               |Hamano              |   42|   67
+Malea               |Bay Østergaard      |   39|   67
+Manuela             |Vanegas             |   42|   71
+Marcela             |Restrepo            |   22|   78
+Maren               |Mjelde              |   48|   81
+Margaret            |Belemu              |   29|   94
+María               |Camila              |   48|   88
+María               |Camila Reyes        |   68|   74
+María               |Paula Salas         |   35|   80
+Mariana             |Benavides           |   21|   86
+Mariana             |Larroquette         |   60|   76
+Marion              |Rey                 |   59|   78
+Marissa             |Sheva               |   51|   70
+Marta               |Cox                 |   27|   73
+Martina             |Lenzini             |   32|   81
+Mary                |Earps               |   40|   82
+Mary                |Fowler              |   58|   77
+Mary                |Wilombe             |   39|   73
+Mayra               |Ramírez             |   38|   74
+Megan               |Connolly            |   57|   79
+Melinda             |Kgadiete            |   36|   70
+Melissa             |Herrera             |   21|   81
+Mengwen             |Li                  |   42|   69
+Mengyu              |Shen                |   26|   89
+Merel               |van                 |   22|   73
+Meriame             |Terchoun            |   62|   73
+Meryll              |Serrano             |   43|   69
+Michaela            |Foster              |   74|   77
+Milan               |Pierre-Jerome       |   19|   85
+Mille               |Gejl                |   58|   75
+Milly               |Clegg               |   27|   83
+Mina                |Tanaka              |   34|   78
+Miriam              |Mayorga             |   36|   76
+Misa                |Rodríguez           |   43|   72
+Miyabi              |Moriya              |   40|   88
+Moeka               |Minami              |   70|   79
+Momoko              |Tanaka              |   44|   76
+Mónica              |Ramos               |   52|   80
+Nahomie             |Ambroise            |   21|   85
+Najat               |Badri               |   20|   86
+Naomie              |Feller              |   20|   89
+Nerila              |Mondesir            |   45|   72
+Nesryne             |El                  |   26|   70
+Ngan                |Thi                 |   22|   86
+Nguyen              |Thi Van Su          |   72|   67
+Nguyen              |Thi My Anh          |   70|   70
+Nguyen              |Thi Thanh Nha       |   20|   71
+Niamh               |Thi Tuyet Dung      |   22|   78
+Nichelle            |Prince              |   40|   67
+Nicoline            |Sørensen            |   51|   69
+Niharika            |de Obaldia          |   31|   86
+Noelle              |Maritz              |   74|   75
+Noko                |Olivia Ganthier     |   46|   70
+Noxolo              |Cesane              |   23|   74
+Oihane              |Hernández           |   37|   67
+Olivia              |Smith               |   45|   70
+Osinachi            |Ohale               |   29|   72
+Paige               |Satchell            |   18|   68
+Park                |Eun-sun             |   54|   67
+Patrícia            |Morais              |   27|   70
+Paulina             |Gramaglia           |   36|   90
+Pernille            |Harder              |   39|   80
+Peyton              |McNamara            |   74|   81
+Pham                |Hai                 |   72|   71
+Priscilla           |Chinchilla          |   68|   70
+Priscilla           |Tapia               |   51|   74
+Qiaozhu             |Chen                |   41|   75
+Quinley             |Quezada             |   39|   72
+Racheal             |Kundananji          |   38|   85
+Rachele             |Baldi               |   25|   75
+Ramona              |Bachmann            |   32|   86
+Raquel              |Rodríguez           |   21|   77
+Rasheedat           |Ajibade             |   30|   68
+Rebeca              |Espinosa            |   62|   77
+Rebecca             |Spencer             |   28|   85
+Rebekah             |Stott               |   37|   84
+Refiloe             |Jane                |   69|   73
+Reina               |Bonta               |   55|   69
+Ria                 |Percival            |   25|   86
+Rikke               |Marie               |   37|   71
+Rikke               |Marie Madsen        |   55|   69
+Rion                |Ishikawa            |   33|   71
+Risa                |Shimizu             |   36|   85
+Rkia                |Mazrouai            |   23|   71
+Robyn               |Moodaly             |   29|   83
+Rosario             |Vargas              |   71|   68
+Rose                |Lavelle             |   50|   73
+Roseline            |Eloissaint          |   63|   73
+Roselord            |Borgella            |   71|   82
+Ruthny              |Mathurin            |   39|   76
+Sakina              |Karchaoui           |   62|   80
+Sakina              |Ouzraoui            |   40|   80
+Salma               |Amani               |   48|   69
+Sam                 |Kerr                |   39|   77
+Sandra              |Sepúlveda           |   40|   67
+Sandrine            |Mauron              |   21|   71
+Sanne               |Troelsgaard         |   23|   84
+Sara                |Daebritz            |   55|   74
+Sarah               |Kassi               |   20|   75
+Satchith            |Paulose             |   71|   74
+Schiandra           |Gonzalez            |   37|   73
+Selma               |Bacha               |   75|   73
+Shaleena            |Nathani             |   24|   89
+Shanoo              |Sharma              |   31|   95
+Shelina             |Zadorsky            |   64|   77
+Sherida             |Spitse              |   30|   69
+Sherly              |Jeudy               |   65|   76
+Shuang              |Wang                |   48|   72
+Shwendesky          |Joseph              |   61|   74
+Sibulele            |Holweni             |   27|   71
+Siddharth           |Anand               |   37|   71
+Simone              |Boye                |   61|   71
+Sinead              |Farrelly            |   21|   70
+Sofia               |Bouftini            |   33|   68
+Sofia               |Cantore             |   24|   84
+Sofia               |Jakobsson           |   32|   87
+Sofie               |Svava               |   35|   67
+Solai               |Washington          |   39|   86
+Sophia              |Kleinherne          |   49|   69
+Sophie              |Roman               |   18|   80
+Sophie              |Schmidt             |   63|   71
+Stefanie            |van                 |   27|   74
+Sunil               |Rodrigues           |   29|   82
+Tahnai              |Annis               |   51|   78
+Tatiana             |Pinto               |   25|   72
+Teagan              |Micah               |   22|   88
+Telma               |Encarnação          |   34|   84
+Thea                |Bjelde              |   37|   72
+Tiisetso            |Makhubela           |   58|   82
+Tochukwu            |Oluehi              |   60|   67
+Tove                |Enblom              |   57|   71
+Tran                |Thi Hai Linh        |   54|   75
+Tran                |Thi Thu             |   35|   82
+Trudi               |Thi Thuy Trang      |   26|   74
+Valentina           |Cernoia             |   52|   78
+Valentina           |Giacinti            |   52|   77
+Vanesa              |Santana             |   58|   74
+Vast                |Phiri               |   54|   79
+Victoria            |Esson               |   21|   84
+Viola               |Calligaris          |   73|   67
+Viviane             |Asseyi              |   43|   83
+Wendy               |Natis               |   50|   74
+Wieke               |Kaptein             |   19|   67
+Yamila              |Rodríguez           |   32|   83
+Yenith              |Bailey              |   29|   87
+Yewande             |Balogun             |   59|   69
+Yui                 |Hasegawa            |   18|   85
+Yuyi                |Xiao                |   24|   96
+Zecira              |Musovic             |   24|   88
