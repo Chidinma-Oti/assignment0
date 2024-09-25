@@ -12,20 +12,14 @@ import java.util.Scanner;
  * based on applicant data, and write the results to an output file. It calculates 
  * various aspects such as age, language skills, education, work experience, and 
  * adaptability, to determine if applicants are qualified.
- * 
- * The main function processes the input and generates an output file showing 
- * the qualified applicants.
  */
 
 public class App {
 
 	/**
-     * The main method serves as the entry point of the application.
-     * It reads input from a file, calculates points for each applicant,
-     * and writes the results to an output file.
-     * 
-     * @param args contains command-line arguments; not used in this case.
+     * @param string arguments
      * @throws Exception if an error occurs during file reading or writing.
+     * @author chide
      */
     public static void main(String[] args) throws Exception {
         System.out.println("COMP 1502: Assignment 1");
@@ -49,11 +43,8 @@ public class App {
 
         // initializing qualified number of applicants
         int qualified = 0;
-
-        // to avoid reading the first line in the input files because they are usless to
-        // me
         scanner2.nextLine();
-        // Integer.parseInt to convert value to int
+       
         // While the scanner has another line, read the file
         while (scanner2.hasNextLine()) {
 
@@ -79,12 +70,7 @@ public class App {
             boolean adaptabilityYouWork = applicant[16].equals("yes");
             boolean adaptabilityYouEmployment = applicant[17].equals("yes");
             boolean adaptabilityRelatives = applicant[18].equals("yes");
-            /*
-             * here i am taking the applicant values and storing them as int variables
-             * and sending them to functions which calculate points and return value as an
-             * int
-             * to make it easy to determine points
-             */
+            //taking the applicant values and storing them as int variables and sending them to functions which calculate points and return value as an int
             int agePoints = age(age);
             int languageSkills = languageSkills(speak1, listen1, read1, write1);
             int secondaryLanguageSkills = secondaryLanguageSkillsCalculator(all2);
@@ -94,14 +80,11 @@ public class App {
             int adaptabilityPoints = adaptabilityCalculator(adaptabilitySpouseLanguage, adaptabilitySpouseEducation,
                     adaptabilitySpouseWork, adaptabilityYouEducation, adaptabilityYouWork, adaptabilityYouEmployment,
                     adaptabilityRelatives);
-            // Here i am taking all the int values and adding them to determine if applicant
-            // is qualified
+            // taking all the int values and adding them to determine if applicant is qualified
             int totalPoints = (agePoints + languageSkills + secondaryLanguageSkills + educationPoints +
                     workExperiencePoints + arrangedEmploymentPoints + adaptabilityPoints);
-            // if qualified increment qualified variable
-            // if qualified print the structure to the formater
-            // -20(negative) is to align to the left and 5 (positive) is to align to the
-            // right
+         
+            // -20(negative) is to align to the left and 5 (positive) is to align to the right
             if (totalPoints >= 67) {
                 pw.printf("%-20s|%-20s|%5d|%5d%n", firstName, lastName, age, totalPoints);
 
