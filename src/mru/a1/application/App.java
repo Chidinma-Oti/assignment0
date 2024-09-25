@@ -12,18 +12,33 @@ import java.util.Scanner;
  * based on applicant data, and write the results to an output file. It calculates 
  * various aspects such as age, language skills, education, work experience, and 
  * adaptability, to determine if applicants are qualified.
+<<<<<<< HEAD
+=======
+ * 
+ * The main function processes the input and generates an output file showing 
+ * the qualified applicants.
+ * the package that was imported was a object that will be used through out this class 
+>>>>>>> 54acaab13b43d076e93684ffffef983757e1617e
  */
 
 public class App {
 
 	/**
+<<<<<<< HEAD
      * @param string arguments
+=======
+     * The main method serves as the entry point of the application this is where all the other methods interact.
+     * It reads input from a file, calculates points for each applicant,
+     * and writes the results to an output file.
+     * 
+     * @param args contains command-line arguments; not used in this case.
+>>>>>>> 54acaab13b43d076e93684ffffef983757e1617e
      * @throws Exception if an error occurs during file reading or writing.
      * @author chide
      */
     public static void main(String[] args) throws Exception {
         System.out.println("COMP 1502: Assignment 1");
-        // Create a Scanner instance to read the file
+        //at this point we are creating a user input in java 
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("Provide the name of the input file:  ");
