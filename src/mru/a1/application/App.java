@@ -15,12 +15,13 @@ import java.util.Scanner;
  * 
  * The main function processes the input and generates an output file showing 
  * the qualified applicants.
+ * the package that was imported was a object that will be used through out this class 
  */
 
 public class App {
 
 	/**
-     * The main method serves as the entry point of the application.
+     * The main method serves as the entry point of the application this is where all the other methods interact.
      * It reads input from a file, calculates points for each applicant,
      * and writes the results to an output file.
      * 
@@ -29,7 +30,7 @@ public class App {
      */
     public static void main(String[] args) throws Exception {
         System.out.println("COMP 1502: Assignment 1");
-        // Create a Scanner instance to read the file
+        //at this point we are creating a user input in java 
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("Provide the name of the input file:  ");
