@@ -1,5 +1,6 @@
 package mru.a1.application;
 
+
 import java.io.File;
 import java.io.PrintWriter;
 import java.io.FileWriter;
@@ -7,14 +8,24 @@ import java.util.Objects;
 import java.util.Scanner;
 
 /**
+ * The class contains methods to read from a file, calculate scores
+ * based on applicant data, and write the results to an output file. It calculates 
+ * various aspects such as age, language skills, education, work experience, and 
+ * adaptability, to determine if applicants are qualified.
  * 
+ * The main function processes the input and generates an output file showing 
+ * the qualified applicants.
  */
 
 public class App {
 
-    /**
-     * @param args
-     * @throws Exception
+	/**
+     * The main method serves as the entry point of the application.
+     * It reads input from a file, calculates points for each applicant,
+     * and writes the results to an output file.
+     * 
+     * @param args contains command-line arguments; not used in this case.
+     * @throws Exception if an error occurs during file reading or writing.
      */
     public static void main(String[] args) throws Exception {
         System.out.println("COMP 1502: Assignment 1");
@@ -107,7 +118,12 @@ public class App {
         pw.close();
 
     }
-
+    /**
+     * Calculates points for secondary language skills.
+     * 
+     * @param all2 boolean indicating whether all language abilities are present.
+     * @return the points for secondary language skills (maximum 4 points).
+     */
     // Secondary language point calculator
     public static int secondaryLanguageSkillsCalculator(boolean all2) {
         int secondaryLanguagePoints = 0;
@@ -116,7 +132,18 @@ public class App {
         }
         return secondaryLanguagePoints;
     }
-
+    /**
+     * Calculates adaptability points based on various factors.
+     * 
+     * @param adaptabilitySpouseLanguage boolean indicating if spouse has language skills.
+     * @param adaptabilitySpouseEducation boolean indicating if spouse has education.
+     * @param adaptabilitySpouseWork boolean indicating if spouse has work experience.
+     * @param adaptabilityYouEducation boolean indicating if the applicant has education.
+     * @param adaptabilityYouWork boolean indicating if the applicant has work experience.
+     * @param adaptabilityYouEmployment boolean indicating if the applicant has arranged employment.
+     * @param adaptabilityRelatives boolean indicating if the applicant has relatives in the country.
+     * @return the adaptability points (maximum 10 points).
+     */
     // Adaptability point calculator
     public static int adaptabilityCalculator(boolean adaptabilitySpouseLanguage, boolean adaptabilitySpouseEducation,
             boolean adaptabilitySpouseWork, boolean adaptabilityYouEducation, boolean adaptabilityYouWork,
@@ -145,7 +172,12 @@ public class App {
 
         return adaptabilityPoints;
     }
-
+    /**
+     * Calculates points for arranged employment.
+     * 
+     * @param arrangedEmployment boolean indicating if arranged employment is present.
+     * @return the points for arranged employment (maximum 10 points).
+     */
     // Arranged employment point calculator
     public static int arrangedEmployment(boolean arrangedEmployment) {
         int arrangedEmploymentPoints = 0;
@@ -154,7 +186,12 @@ public class App {
         }
         return arrangedEmploymentPoints;
     }
-
+    /**
+     * Calculates points based on the applicant's education level.
+     * 
+     * @param education a string representing the applicant's education level.
+     * @return the points for education (maximum 25 points).
+     */
     // education point calculator
     public static int educationCalculator(String education) {
         int educationPoints = 0;
@@ -179,6 +216,12 @@ public class App {
     }
 
     // age point calculator
+    /**
+     * Calculates points based on the applicant's age.
+     * 
+     * @param age the age of the applicant.
+     * @return the points for age (maximum 12 points).
+     */
     public static int age(int age) {
 
         int agePoints = 0;
@@ -212,8 +255,15 @@ public class App {
         }
         return agePoints;
     }
-
+    
+    /**
+     * Calculates points based on the applicant's work experience.
+     * 
+     * @param workExperience the number of years of work experience.
+     * @return the points for work experience (maximum 15 points).
+     */
     // Experience point calculator
+    
     public static int calculateWorkExperiencePoints(int workExperience) {
 
         int workPoints = 0;
@@ -231,7 +281,15 @@ public class App {
         // workPoints
         return workPoints;
     }
-
+    /**
+     * Calculates points for language skills in speaking, listening, reading, and writing.
+     * 
+     * @param speak1 the speaking skill level.
+     * @param listen1 the listening skill level.
+     * @param read1 the reading skill level.
+     * @param write1 the writing skill level.
+     * @return the total points for language skills (maximum 24 points).
+     */
     // Language skills point calculator
     public static int languageSkills(int speak1, int listen1, int read1, int write1) {
         int languagePoints = 0;
